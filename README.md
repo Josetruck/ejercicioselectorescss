@@ -1,0 +1,2 @@
+# ejercicioselectorescss
+Actividad de selectores
